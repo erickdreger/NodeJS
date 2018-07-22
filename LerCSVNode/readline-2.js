@@ -17,6 +17,6 @@ fs.readFile(caminho ,'utf-8', (err, conteudo) =>  {
 
 })
 
-
+//TESTE
 const config = require('./arquivo.json')
 console.log(config.db)
